@@ -1,0 +1,33 @@
+
+Š
+java:S1192½"MDefine a constant instead of duplicating this literal "deletions(-)" 4 times.(‚»ó¡J$8dcab05b-47c6-4027-97c7-d1ed9697c6ff
+‹
+java:S1192¹"NDefine a constant instead of duplicating this literal "insertions(+)" 4 times.(«ä¸J$352e6d3e-4e8e-40f5-96fa-89b29c10b907
+
+java:S1192µ"NDefine a constant instead of duplicating this literal "files changed" 4 times.(ÚÖï¶ıÿÿÿÿJ$6721c4e2-b7ad-4063-80d6-bb736b1f27be
+U
+java:S2629°"7Use the built-in formatting to construct this argument.(¹ş‰ñ8´Â©•ê1
+š	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¤‹üñüÿÿÿÿJ$010013af-2460-4f08-ae7d-11cb5aa63761
+u
+java:S1118":Add a private constructor to hide the implicit public one.(âß³VJ$e0e51eb7-f432-470c-b18a-d849eadaa953
+
+java:S1130!"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(ã¥‚şÿÿÿÿ8øÉ©•ê1
+N
+java:S1874="2Remove this use of "getAllRefs"; it is deprecated.(¿ëò8„Ê©•ê1
+p
+java:S2864h"4Iterate over the "entrySet" instead of the "keySet".(Á»¿J$f44a48e5-0a75-4405-9ee6-dbc8c3bec00b
+_
+java:S3457°"AFormat specifiers should be used instead of string concatenation.(¹ş‰ñ8¥Ê©•ê1
+”
+java:S3776Ë"RRefactor this method to reduce its Cognitive Complexity from 47 to the 15 allowed.(ñæèÒÿÿÿÿÿJ$f83d0796-014d-4f79-a006-a938c6ce6eb6
+W
+java:S2864â"4Iterate over the "entrySet" instead of the "keySet".(½Ö²’ûÿÿÿÿ8¶Ê©•ê1
+h
+java:S1481"+Remove this unused "status" local variable.(³Éë“J$ada852b4-cc91-4753-99ac-e1f6ad71b3b9
+›
+java:S2142¬"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€J$16d79c31-c341-43c4-8ae8-862740114297
+›
+java:S2142Ì"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€J$d4895b51-ecf6-4b22-908b-756a5f2a86a8
+c
+java:S1481À"&Remove this unused "b" local variable.(Éæ»J$9ba14a24-e869-4705-b7be-4cbc6fcbdf10
+}	java:S125Ø"<This block of commented-out lines of code should be removed.(ëéá€úÿÿÿÿJ$130a512a-2ada-44e0-9221-1c382c733972

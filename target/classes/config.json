@@ -1,0 +1,40 @@
+{
+  "project":{
+    "prefix": "Ignite",
+    "tag_prefix": "digital-key-",
+    "bitbucket_link": "https://bitbucket.harman.com/scm/ias/digital-key.git",
+    "work_dir": "C:\\Work@Harman\\Projects\\digital-key",
+    "result_file_path": "train-data.csv",
+    "releases": {
+      "released":[
+        "2.19",
+        "2.20",
+        "2.21",
+        "2.22",
+        "2.23",
+        "2.24",
+        "2.25",
+        "2.26"
+      ],
+      "planned":[
+        {
+          "name": "",
+          "tag": "",
+          "curr_stage": "",
+          "release_date": ""
+        },
+        {
+          "name": "",
+          "tag": "",
+          "curr_stage": "",
+          "release_date": ""
+        }
+      ]
+    }
+  },
+  "database": {
+    "url": "jdbc:mysql://127.0.0.1:3306/hackathon",
+    "user": "root",
+    "password": "harman@123"
+  }
+}

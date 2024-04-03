@@ -1,0 +1,40 @@
+{
+  "project":{
+    "prefix": "",
+    "tag_prefix": "project-",
+    "bitbucket_link": "<project_bb_link>",
+    "work_dir": "<work_dir_project>",
+    "result_file_path": "train-data.csv",
+    "releases": {
+      "released":[
+        "2.19",
+        "2.20",
+        "2.21",
+        "2.22",
+        "2.23",
+        "2.24",
+        "2.25",
+        "2.26"
+      ],
+      "planned":[
+        {
+          "name": "",
+          "tag": "",
+          "curr_stage": "",
+          "release_date": ""
+        },
+        {
+          "name": "",
+          "tag": "",
+          "curr_stage": "",
+          "release_date": ""
+        }
+      ]
+    }
+  },
+  "database": {
+    "url": "jdbc:mysql://127.0.0.1:3306/hackathon",
+    "user": "root",
+    "password": "test@123"
+  }
+}

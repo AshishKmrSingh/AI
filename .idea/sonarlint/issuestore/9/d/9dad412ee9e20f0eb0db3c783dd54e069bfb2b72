@@ -1,0 +1,31 @@
+
+Š
+java:S1192¼"MDefine a constant instead of duplicating this literal "deletions(-)" 4 times.(‚»ó¡J$148124e0-30c3-46e2-88ac-127ff05783dd
+‹
+java:S1192¸"NDefine a constant instead of duplicating this literal "insertions(+)" 4 times.(«ä¸J$2d8270a9-e836-41eb-9b82-2b0de7bb7e72
+
+java:S1192´"NDefine a constant instead of duplicating this literal "files changed" 4 times.(ÚÖï¶ıÿÿÿÿJ$562344e3-1aff-4fa5-87c9-ee6489158a0f
+{
+java:S2629¯"7Use the built-in formatting to construct this argument.(¹ş‰ñ8´Â©•ê1J$cbdc35c7-829e-4732-8f01-17bade2a6a71
+š	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¤‹üñüÿÿÿÿJ$d2bcafe5-5a48-42c1-a50d-c9cabaf41299
+u
+java:S1118":Add a private constructor to hide the implicit public one.(âß³VJ$4515d4b6-5dd5-4a90-8cd9-dab736449a10
+´
+java:S1130 "lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(ã¥‚şÿÿÿÿ8øÉ©•ê1J$7ee349e9-b2ec-44f6-b239-b385c92ff402
+t
+java:S1874<"2Remove this use of "getAllRefs"; it is deprecated.(¿ëò8„Ê©•ê1J$7003112f-745f-47da-8f34-a8c2874daf3e
+…
+java:S3457¯"AFormat specifiers should be used instead of string concatenation.(¹ş‰ñ8¥Ê©•ê1J$b48bed1d-0276-460f-8ea7-b35102225c58
+”
+java:S3776Ê"RRefactor this method to reduce its Cognitive Complexity from 47 to the 15 allowed.(ñæèÒÿÿÿÿÿJ$2c91c970-c13e-462c-aae4-d99d314c6ad5
+}
+java:S2864á"4Iterate over the "entrySet" instead of the "keySet".(½Ö²’ûÿÿÿÿ8¶Ê©•ê1J$9fd05bc8-c66b-431f-b4ee-a21f1bb2ca42
+h
+java:S1481"+Remove this unused "status" local variable.(³Éë“J$9e430010-c9a0-4dd8-84b3-0f1d0d8328c4
+›
+java:S2142«"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€J$d5be8bb4-1a99-4eb1-849f-883912d3277d
+›
+java:S2142Ë"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€J$0eb04cfd-2d88-45db-8df9-1a5153bebba2
+c
+java:S1481¿"&Remove this unused "b" local variable.(Éæ»J$19dd3d12-f8f0-4ca3-b114-96653bfaec62
+}	java:S125×"<This block of commented-out lines of code should be removed.(ëéá€úÿÿÿÿJ$6bde1440-4fda-4e68-bd27-6708bbb4f73d
